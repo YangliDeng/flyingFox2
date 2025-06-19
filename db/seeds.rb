@@ -87,6 +87,7 @@ end
   [Airport.find_by(code: "DEL").id, Airport.find_by(code: "DEL").id, "2028-06-23 10:30:00", "100"],
   [Airport.find_by(code: "HKG").id, Airport.find_by(code: "HKG").id, "2028-06-24 10:30:00", "100"],
   [Airport.find_by(code: "KUL").id, Airport.find_by(code: "KUL").id, "2028-06-25 10:30:00", "100"],
+  [Airport.find_by(code: "KUL").id, Airport.find_by(code: "PEK").id, "2028-06-25 10:30:00", "100"],
   [Airport.find_by(code: "DOH").id, Airport.find_by(code: "DOH").id, "2028-06-26 10:30:00", "100"],
   [Airport.find_by(code: "AKL").id, Airport.find_by(code: "AKL").id, "2028-06-27 10:30:00", "100"],
   [Airport.find_by(code: "MEL").id, Airport.find_by(code: "MEL").id, "2028-06-28 10:30:00", "100"],
